@@ -1,12 +1,12 @@
 # Search-bar-with-Filter-and-Favorite-Button-Flutter-App
 Search bar with Filter and  Favorite Button with beautiful UI -Flutter App
 
-video tutorial
+# video tutorial
 https://youtu.be/vg07-aaQWfk
 
 
-if you want source code :
-please subscribe in my channel and contact me with my email:
+# if you want source code :
+please subscribe in my channel and send me the link of video to my Email:
 brhomapps@gmail.com
 
 Our site :
